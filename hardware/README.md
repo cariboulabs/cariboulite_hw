@@ -14,7 +14,7 @@ This documentation shall cover the production-grade board (rev2).
 
 <table>
   <tr>
-    <td><img src="../docs/system/system_view.png" alt="Top View"></td>
+    <td><img src="https://github.com/cariboulabs/cariboulite_hw/blob/main/doc/system/system_view.png" alt="Top View"></td>
   </tr>
   <tr>
     <td>CaribouLite SDR System Diagram</td>
@@ -52,7 +52,7 @@ The MODEM (AT86RF215) is clocked from a 26MHz TCXO (bottom layer). This device p
 The MIXER can also be clocked from a separate dedicated TCXO (not assembled), or an external coherent clock source.
 <table>
   <tr>
-    <td><img src="../docs/system/instructions_clocking_mixer.png" alt="Top View" height=200></td>
+    <td><img src="https://github.com/cariboulabs/cariboulite_hw/blob/main/doc/system/instructions_clocking_mixer.png" alt="Top View" height=200></td>
   </tr>
   <tr>
     <td>MIXER clocking options, other than the default MODEM provided reference clock</td>
